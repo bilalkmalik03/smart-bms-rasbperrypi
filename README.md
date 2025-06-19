@@ -4,7 +4,7 @@ This project implements a Smart Building Management System (BMS) on a Raspberry 
 
 ## Demo Video
 
-[Watch the Demo on YouTube](https://YOUTUBE_LINK_HERE)
+[Watch the Demo on YouTube](https://www.youtube.com/watch?v=Ftd7s_3XVKs)
 
 ## Features
 
